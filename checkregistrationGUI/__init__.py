@@ -1,0 +1,2 @@
+
+from checkregistrationGUI import CheckRegistrationFrame

@@ -1,0 +1,2 @@
+
+from checkpoiGUI import CheckPOIFrame
